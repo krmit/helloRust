@@ -1,0 +1,12 @@
+[package]
+
+name = "helloRust"
+version = "0.0.1"
+authors = [ "Magnus Kronnäs <magnus.kronnas@gmail.com>" ]
+
+[dependencies]
+dsfmt-rs = "0.1.0"
+
+[[bin]]
+
+name = "helloRust"
